@@ -3,6 +3,7 @@
 !/.env
 !/.gitignore
 !/assets
+!/constants.typoscript
 !/docker-compose.yml
 !/LICENSE
 !/README.md

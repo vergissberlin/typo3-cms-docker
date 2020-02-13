@@ -1,0 +1,37 @@
+[treeLevel = 0]
+page.theme.navigation.style = default-transition
+[end]
+
+page.theme.navigation.type = top
+page.theme.meta.enable = 0
+plugin.bootstrap_package.settings.scss.primary = #2F99A4
+plugin.bootstrap_package.settings.scss.secondary = #333333
+page.theme.socialmedia.channels.facebook.url = https://www.facebook.com/netresearch/
+page.theme.socialmedia.channels.twitter.url = https://twitter.com/netresearch
+page.theme.socialmedia.channels.github.url = https://github.com/netresearch/
+page.theme.socialmedia.channels.youtube.url = https://www.youtube.com/user/netresearch
+page.preloader.backgroundColor = #CCCDCC
+page.preloader.logo.file = fileadmin/demo/logo.png
+page.logo.file = /fileadmin/assets/images/logo.png
+page.favicon.file = /filemadmin/assets/images/favicon.png
+page.logo.height = 144
+page.logo.alt = Logo der Netresearch DTT GmbH
+page.logo.linktitle = Netresearch DTT GmbH
+page.theme.googleFont.font = Raleway
+page.theme.cookieconsent.content.href = 66
+page.theme.cookieconsent.revokable = 1
+page.theme.cookieconsent.type = opt-in
+page.theme.cookieconsent.position = bottom-right
+page.theme.copyright.enable = 0
+page.meta.description = Netresearch - Enables you to be a champ in the net
+page.meta.author = André Lademann
+page.meta.apple-mobile-web-app-capable = yes
+plugin.bootstrap_package.settings.scss.default = #2F99A4
+plugin.bootstrap_package.settings.scss.cyan = #2F99A4
+plugin.bootstrap_package.settings.scss.dark = #585961
+plugin.bootstrap_package.settings.scss.gray-600 = #585961
+plugin.bootstrap_package.settings.scss.light = #CCCDCC
+plugin.bootstrap_package.settings.scss.orange = #FF4D00
+config.no_cache = 0
+config.headerComment = Netresearch DTT GmbH
+page.logo.fileInverted = /fileadmin/assets/images/logo-inverted.png
